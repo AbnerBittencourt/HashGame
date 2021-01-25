@@ -12,7 +12,7 @@ EN => Application developed for the purpose of practicing Javascript interaction
 
 ## Technologies
 
-PT_BR => Esse projeto foi desenvolvido com as seguintes tecnologias:
+PT_BR => Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
 EN => This project was developed with the following technologies:
 
 - ✔️ HTML5
