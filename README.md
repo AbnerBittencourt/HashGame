@@ -1,7 +1,7 @@
 # Hash Game
 
-<p align="center">PT_BR => Aplicação desenvolvida para fins de prática de interações do Javascript com o DOM <br>
-EN => Application developed for the purpose of practicing Javascript interactions with the DOM.</p>
+<p align="center">PT_BR => Aplicação desenvolvida para fins de prática de interações do Javascript com o DOM. Com possibilidade de jogar contra IA criada em hardcode com a função JS "Math.Random". <br>
+EN => Application developed for the purpose of practicing Javascript interactions with the DOM. With the possibility to play against AI created in hardcode with the JS "Math.Random" function.</p>
 
 <div align="center" >
   <img src="./github/2players.gif" alt="2players" height="425">
